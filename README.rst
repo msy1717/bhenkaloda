@@ -1,35 +1,6 @@
 
 
-Running Locally or at Dedicated Server
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Using `Heroku Local <https://devcenter.heroku.com/articles/heroku-local#run-your-app-locally-using-the-heroku-local-command-line-tool>`__ (preferred)
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-You will need `Heroku CLI <https://cli.heroku.com/>`__ installed.
-
-::
-
-    # If you've installed from PyPI - download Procfile first (otherwise already present in Git repository):
-    curl -O https://raw.githubusercontent.com/gpchelkin/scdlbot/master/Procfile
-
-    # For long polling mode (USE_WEBHOOK=0):
-    heroku local -e .env worker
-    # For webhook mode (USE_WEBHOOK=1):
-    heroku local -e .env web
-
-Using Python only
-"""""""""""""""""
-
-::
-
-    export $(grep -v '^#' .env | xargs)
-    python3 -m scdlbot
-    # or in one line:
-    env $(grep -v '^#' .env | xargs) python3 -m scdlbot
-
-    # If you've installed package from PyPI into the system,
-    # you can also replace 'python3 -m scdlbot' with pure 'scdlbot'
+R
 
 Deploying to `Heroku <https://heroku.com/>`__
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
