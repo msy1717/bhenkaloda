@@ -8,11 +8,11 @@
 
 
 
-👨🏻‍💻 *Developed by [❝𝐌𝐀𝐅𝐈𝐀 𝐓𝐄𝐀𝐂𝐇𝐈𝐍𝐆𝐒❞](https://t.me/Mafia_Teaching)*
-*➠ My Name:[SONG DOWNLOADER BOT](https://t.me/BeastMusicalBot)*
-*➠ Launguage:[Python3](https://www.python.org/)*
-*➠ Dev🇮🇳:[@Godmrunal](https://t.me/Godmrunal)*
-*➠ Support Channel:[❝𝐌𝐀𝐅𝐈𝐀 𝐓𝐄𝐀𝐂𝐇𝐈𝐍𝐆𝐒❞](https://t.me/Mafia_Teaching)*
-*➠ Support Group :[Bots Official Chat](https://t.me/TelebotsscHAT)*
+👨🏻‍💻 **Developed by [❝𝐌𝐀𝐅𝐈𝐀 𝐓𝐄𝐀𝐂𝐇𝐈𝐍𝐆𝐒❞](https://t.me/Mafia_Teaching)**
+**➠ My Name:[SONG DOWNLOADER BOT](https://t.me/BeastMusicalBot)**
+**➠ Launguage:[Python3](https://www.python.org/)**
+**➠ Dev🇮🇳:[@Godmrunal](https://t.me/Godmrunal)**
+**➠ Support Channel:[❝𝐌𝐀𝐅𝐈𝐀 𝐓𝐄𝐀𝐂𝐇𝐈𝐍𝐆𝐒❞](https://t.me/Mafia_Teaching)**
+**➠ Support Group :[Bots Official Chat](https://t.me/TelebotsscHAT)**
 
-*👩🏻‍🎨 Logo by @[GOD_FATHER_XD](https://t.me/GOD_FATHER_XD)*
+**👩🏻‍🎨 Logo by @[GOD_FATHER_XD](https://t.me/GOD_FATHER_XD)**
