@@ -15,4 +15,4 @@
 **➠ Support Channel:[❝𝐌𝐀𝐅𝐈𝐀 𝐓𝐄𝐀𝐂𝐇𝐈𝐍𝐆𝐒❞](https://t.me/Mafia_Teaching)**
 **➠ Support Group :[Bots Official Chat](https://t.me/TelebotsscHAT)**
 
-**👩🏻‍🎨 Logo by @[GOD_FATHER_XD](https://t.me/GOD_FATHER_XD)**
+**👩🏻‍🎨 Logo by [GOD_FATHER_XD](https://t.me/GOD_FATHER_XD)*
